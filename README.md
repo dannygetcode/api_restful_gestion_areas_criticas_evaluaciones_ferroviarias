@@ -1,6 +1,9 @@
 Explanation of API REST (english)
-  [https://youtu.be/7CWe_uatDps](url)
+  
+[Watch the video on YouTube](https://youtu.be/7CWe_uatDps)
 
 
 Explicación de API REST (español)
-[https://youtu.be/sjQ2VTiSGKc](url)
+
+[Mira el video en YouTube](https://youtu.be/sjQ2VTiSGKc)
+
